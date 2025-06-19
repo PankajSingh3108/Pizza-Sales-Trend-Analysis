@@ -1,5 +1,5 @@
 ## 🍕 Pizza Sales Analysis Dashboard
-
+### 🔗 [Download Dashboard (.pbix)](https://drive.google.com/file/d/1vLmhgcKwx6_4rOqsej-OurylDRKblc4e/view?usp=sharing)
 **Tools Used**: Power BI · DAX · Excel  
 **Timeline**: Dec 2024 – Feb 2025  
 **Domain**: Retail Analytics / Food & Beverage Industry  
@@ -86,11 +86,3 @@ Built using Power BI, this dashboard provides actionable insights for restaurant
 
 ---
 
-### 📸 Dashboard Previews
-
-> *(Optional: Add screenshots here from your Power BI dashboard. Example below)*
-
-```markdown
-![Pizza Sales KPI Cards](project_images/pizza_kpi_cards.png)
-![Peak Hours Bar Chart](project_images/peak_hours.png)
-![Pizza Category Revenue](project_images/pizza_category.png)
